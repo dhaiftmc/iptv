@@ -8,7 +8,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 https://stream.iptv-search.com/main.php?id=HOY+Infotainment+%281080p%29+%5BGeo-blocked%5D&t=1755401429&token=8188f4e85997733c61b41d9a13771081
 #EXTINF:-1 tvg-name="81 翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="電視",81 翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-#EXTINF:-1 tvg-name="82 TVB Plus" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="電視",82 TVB Plus
+#EXTINF:-1 tvg-name="82 TVB Plus" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/6/63/TVBPlus.webp/revision/latest?cb=20240501234348" group-title="電視",82 TVB Plus
 https://cdn.101.qzz.io/163189/tvbp
 #EXTINF:-1 tvg-name="84 明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="電視",84 明珠台
 http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
