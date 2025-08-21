@@ -2,6 +2,8 @@
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-name="32 港台電視32" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="電視",32 港台電視32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-name="77 HOY TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest?cb=20231221130037&path-prefix=vi" group-title="電視",77 HOY TV
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 #EXTINF:-1 tvg-name="78 HOY資訊台" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/HOY_Infotainment_Channel.png/revision/latest?cb=20231221130037&path-prefix=vi" group-title="電視",78 HOY資訊台
 https://stream.iptv-search.com/main.php?id=HOY+Infotainment+%281080p%29+%5BGeo-blocked%5D&t=1755401429&token=8188f4e85997733c61b41d9a13771081
 #EXTINF:-1 tvg-name="81 翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="電視",81 翡翠台
