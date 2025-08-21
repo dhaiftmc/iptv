@@ -17,5 +17,5 @@ http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 #EXTINF:-1 group-title="電視" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/2560px-ViuTV_logo.svg.png",99 ViuTV
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
-#EXTINF:-1 group-title="電視" tvg-logo="https://www.nowtv.now.com/genre/news/",332 Now新聞台
+#EXTINF:-1 group-title="電視" tvg-logo="https://www.nowtv.now.com/media/logo/L00051-dbg-c.png",332 Now新聞台
 http://cdn.163189.xyz/163189/now
